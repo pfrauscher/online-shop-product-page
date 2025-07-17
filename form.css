@@ -1,0 +1,69 @@
+* {
+
+}
+
+body {
+    background-color: white;
+    font-family: "Myriad Pro";
+    font-size: 1.1rem;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    padding: 0% 10% 0% 10%;
+}
+
+ p {
+     font-size: 1.0rem;
+     text-align: justify;
+ }
+
+ fieldset {
+     margin: 15px 0px 15px 0px;
+ }
+
+input {
+    font-size: 1rem;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    color: darkgray;
+    margin: 5px 0px 5px 0px;
+}
+
+label {
+    padding: 6px 0px 2px 0px;
+    text-align: left;
+
+}
+
+.filter-button {
+    width: auto;
+    color: #ba324f; /* brick red */
+    border: 2px solid #ba324f;
+    background-color: transparent;
+    margin: 14px 10px 9px 0px;
+}
+
+button {
+    background-color: #175676;
+    color: white;
+    padding: 8px;
+    margin: 14px 0px 9px 0px;
+    border: 1px darkblue;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
